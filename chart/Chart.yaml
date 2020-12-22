@@ -1,0 +1,7 @@
+apiVersion: v2
+name: artifact-bot
+description:  Artifact Bot chart
+
+type: application
+
+version: 0.0.0-managed
